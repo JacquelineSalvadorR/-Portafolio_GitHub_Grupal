@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/-Portafolio_GitHub_Grupal/static/css/main.fb99cf94.css",
-    "main.js": "/-Portafolio_GitHub_Grupal/static/js/main.b6ab5677.js",
-    "static/js/488.721b4d7d.chunk.js": "/-Portafolio_GitHub_Grupal/static/js/488.721b4d7d.chunk.js",
+    "main.js": "/-Portafolio_GitHub_Grupal/static/js/main.3edbcdff.js",
+    "static/js/453.ba334b65.chunk.js": "/-Portafolio_GitHub_Grupal/static/js/453.ba334b65.chunk.js",
     "static/media/sistemaventas_jatech.png": "/-Portafolio_GitHub_Grupal/static/media/sistemaventas_jatech.64fa463beeac7fb10cbe.png",
     "static/media/avp_agendas.png": "/-Portafolio_GitHub_Grupal/static/media/avp_agendas.47c0956d8b58aadbe201.png",
     "static/media/e1.jpg": "/-Portafolio_GitHub_Grupal/static/media/e1.8853003cda2ca3601ee7.jpg",
@@ -22,11 +22,11 @@
     "static/media/a3.jpg": "/-Portafolio_GitHub_Grupal/static/media/a3.48a7efde85566fa64586.jpg",
     "index.html": "/-Portafolio_GitHub_Grupal/index.html",
     "main.fb99cf94.css.map": "/-Portafolio_GitHub_Grupal/static/css/main.fb99cf94.css.map",
-    "main.b6ab5677.js.map": "/-Portafolio_GitHub_Grupal/static/js/main.b6ab5677.js.map",
-    "488.721b4d7d.chunk.js.map": "/-Portafolio_GitHub_Grupal/static/js/488.721b4d7d.chunk.js.map"
+    "main.3edbcdff.js.map": "/-Portafolio_GitHub_Grupal/static/js/main.3edbcdff.js.map",
+    "453.ba334b65.chunk.js.map": "/-Portafolio_GitHub_Grupal/static/js/453.ba334b65.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fb99cf94.css",
-    "static/js/main.b6ab5677.js"
+    "static/js/main.3edbcdff.js"
   ]
 }
